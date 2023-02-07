@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Conestoga College Employee Time Logger",
+    "description": "Easy to log your time for work at Conestoga College",
+    "version": "1.0",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.png"
+    },
+    "permissions": [
+      "tabs"
+    ]
+  }
